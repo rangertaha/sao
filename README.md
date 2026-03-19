@@ -1,6 +1,12 @@
 # sao
 Spatial Awareness Operator is a TAK compatible open source server
 
+**⚠️ Under development: do not use**
+
+
+
+
+
 The `ui` command serves a React web app embedded in the SAO binary.
 
 ## Commands
